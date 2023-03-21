@@ -1,1 +1,1 @@
-from multiplayer import friends, chat
+from multiplayer import friends, chat, registrartion
