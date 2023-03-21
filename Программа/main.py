@@ -1,2 +1,2 @@
 from multiplayer import friends, chat, registrartion, enter
-from store import inventory
+from store import inventory, skin
