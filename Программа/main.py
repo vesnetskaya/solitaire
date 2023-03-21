@@ -1,0 +1,1 @@
+from cards import win, lose
