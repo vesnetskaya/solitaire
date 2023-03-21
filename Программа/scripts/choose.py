@@ -1,3 +1,6 @@
 class Choose():
     def __init__(self):
-        self.map = ''
+        self.game = ''
+
+    def game_choice(self, game):
+        self.game = game
