@@ -4,6 +4,3 @@ class Win():
 
     def win(self):
         self.win = True
-
-    def restart(self):
-        self.win = False

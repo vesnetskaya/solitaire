@@ -4,6 +4,3 @@ class Lose():
 
     def lose(self):
         self.lose = True
-    
-    def restart(self):
-        self.lose = False

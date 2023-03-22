@@ -4,6 +4,3 @@ class Hint():
 
     def recharge(self):
         self.hint = True
-
-    def use(self):
-        self.hint = False

@@ -4,6 +4,3 @@ class FriendsGame():
 
     def add(self, friend):
         self.players.add(friend)
-
-    def delete(self, friend):
-        self.players.delete(friend)

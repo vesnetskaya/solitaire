@@ -4,6 +4,3 @@ class Deal():
 
     def deal(self, new_cards):
         self.cards = new_cards
-
-    def back(self):
-        self.cards = []
