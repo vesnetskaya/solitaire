@@ -4,3 +4,6 @@ class Power():
 
     def change(self):
         self.power = 'back'
+    
+    def recharge(self):
+        self.power += 1
