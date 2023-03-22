@@ -4,3 +4,6 @@ class Registration():
     
     def register(self, account):
         self.account = account
+    
+    def recover(self, account):
+        self.account = account
