@@ -4,3 +4,6 @@ class Reports():
 
     def send(self, report):
         self.report = report
+
+    def ban(self, report):
+        self.ban = True
